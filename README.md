@@ -3,6 +3,7 @@
 DeusGem is a comprehensive treasure chest of powerful tools designed for the rapid and seamless creation of text-based games. Whether you are building a solo narrative experience or a massive multiplayer world, DeusGem provides the architectural foundation to bring your vision to life.
 
 🏛 The Treasury Structure
+
 The ecosystem is divided into specialized "gems," each serving a distinct purpose in the game development lifecycle:
 
 🟢 DeusGem-Emerald
@@ -30,6 +31,7 @@ The Management Layer. Administrative tools and a collection of scripts for conve
 The Intelligence Layer. Advanced integration tools for LLMs (Large Language Models). Amethyst allows you to breathe life into NPCs, generate dynamic quests, and create evolving narratives.
 
 🚀 Key Features
+
 Multiplayer Ready: Built from the ground up to support interconnected worlds.
 
 Genre Agnostic: Perfect for RPGs, MUDs, interactive fiction, or strategy games.
